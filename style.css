@@ -1,0 +1,15 @@
+p.azul {
+    color: blue;
+}
+
+p#identificador {
+    color: blue;
+}
+
+p#especial {
+    color: red;
+}
+
+p.verde {
+    color: green;
+}
