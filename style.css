@@ -13,3 +13,7 @@ p#especial {
 p.verde {
     color: green;
 }
+
+p.navegadorweb {
+    color: red;
+}
