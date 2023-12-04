@@ -1,7 +1,3 @@
-p.azul {
-    color: blue;
-}
-
 p#identificador {
     color: blue;
 }
@@ -16,4 +12,7 @@ p.verde {
 
 p.navegadorweb {
     color: red;
+}
+p{
+    color: green;
 }
